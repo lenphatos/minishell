@@ -1,7 +1,7 @@
 
 # minishell
 
-This project consists of coding a basic shell console in C languge.
+This project consists of coding a basic shell console in C language.
 
 
 ## Deployment
